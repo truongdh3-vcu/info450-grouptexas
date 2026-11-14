@@ -71,7 +71,7 @@ git clone (https://github.com/truongdh3-vcu/info450-texas)
 ### 2. Open the project folder
 
 ```bash
-cd YOUR_REPOSITORY_NAME
+cd info450-grouptexas
 ```
 
 ### 3. Install the required packages
