@@ -1,0 +1,14 @@
+Code,Carrier,CarrierType
+AA,American Airlines,Mainline
+AS,Alaska Airlines,Mainline
+B6,JetBlue Airways,Mainline
+DL,Delta Air Lines,Mainline
+F9,Frontier Airlines,Low-cost
+G4,Allegiant Air,Low-cost
+MQ,Envoy Air,Regional
+NK,Spirit Airlines,Low-cost
+OH,PSA Airlines,Regional
+OO,SkyWest Airlines,Regional
+UA,United Airlines,Mainline
+WN,Southwest Airlines,Mainline
+YX,Republic Airways,Regional
